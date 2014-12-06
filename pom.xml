@@ -30,9 +30,9 @@
                 <version>2.4.1</version>
                 <executions>
                     <execution>
-                        <phase>verify</phase>
+                        <phase>package</phase>
                         <goals>
-                            <goal>package</goal>
+                            <goal>single</goal>
                         </goals>
                         <configuration>
                             <finalName>sigar</finalName>
