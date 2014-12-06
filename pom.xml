@@ -9,7 +9,7 @@
 
     <artifactId>sigar.dist</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1-SNAPSHOT</version>
 
     <name>sigar</name>
     <description>This project packages sigar libraries as a maven distribution for consumption from other maven projects</description>
