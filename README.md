@@ -1,5 +1,10 @@
 # Sigar Dist
 
+[![Build Status][build-status-image]][build-status]
+
+[build-status-image]: https://travis-ci.org/kaazing/sigar.dist.svg?branch=develop
+[build-status]: https://travis-ci.org/kaazing/sigar.dist
+
 # About this Project
 
 This project packages sigar libraries as a maven distribution for consumption from other maven projects
